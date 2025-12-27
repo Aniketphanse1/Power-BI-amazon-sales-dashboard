@@ -15,9 +15,12 @@ This project showcases an interactive Power BI dashboard built to analyze Amazon
 - Data Cleaning
 
 ## 📸 Dashboard Screenshots
-![Overview](screenshots/Screenshot 2025-12-27 171211.jpg)
-![Products](screenshots/Screenshot 2025-12-27 171237.jpg)
-![Product View](screenshots/Screenshot 2025-12-27 171326.jpg)
+### Overview
+![Overview](screenshots/overview.jpg)
+### Products
+![Products](screenshots/products.jpg)
+### Product View
+![Product View](screenshots/product-view.jpg)
 
 ## 📁 Files
 - `Power-BI-amazon-sales-dashboard.pbix`
